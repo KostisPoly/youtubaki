@@ -1,0 +1,45 @@
+.mylist {
+    list-style: none;
+}
+img {
+    height: 200px;
+}
+input {
+    align-self: center;
+    width: 20%;
+    text-align: center;
+}
+#search-div {
+    display: flex;
+}
+iframe {
+    min-height: 400px;
+    min-width: 70%;
+}
+.details-title {
+    font-size: 200%;
+    color: #E97643;
+}
+.mylist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.media-header img {
+    width: 300px;
+}
+.media-body {
+    width: 300px;
+}
+li:hover {
+    background-color: #E97643;
+}
+.para-parent {
+    display: flex;
+    justify-content: end;
+}
+.paragraph {
+    color: #E97643;
+    align-self: center;
+    padding-left: 10px;
+}
